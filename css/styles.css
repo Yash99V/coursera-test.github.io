@@ -1,0 +1,51 @@
+.nav-new{
+  background-color: Black;
+  height: 100px;
+  padding-bottom: 250px;
+}
+
+/*tomato yellowwhite Black whiteyellow red #00CED1*/
+
+
+.container-fluid .navbar-brand h1 {
+  color: blue;
+  margin: 10px 10px 10px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+  color: white;
+  background-color: Black;
+}
+.navbar-header button.navbar-toggle:focus,.navbar-header button.navbar-toggle:hover{
+  background-color: Black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+#nav-list a {
+  text-align: center;
+  border: 1px solid white;
+}
+#nav-list a span {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: greenyellow;
+  
+}
+
+.container-fluid h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  color: blue;
+}
+.container-fluid h2 {
+  color: greenyellow;
+}
+.container-fluid .Chicken ,.container-fluid .Beef, .container-fluid .Sushi {
+  width: 90%;
+  background-color: Black;
+  color: white;
+  text-align: center;
+  margin: 15px auto;
+  padding: 5px 15px;
+}
